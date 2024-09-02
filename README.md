@@ -4,7 +4,7 @@ SO WAS CAT
 
 # git-demo
 
-Adding some text to the README
+Causing problems on purpose
 
 Hey Cat =]
 
