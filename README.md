@@ -4,7 +4,7 @@ SO WAS CAT
 
 # git-demo
 
-Causing problems on purpose
+Causing chaotic problems on purpose in the README >:3
 
 Hey Cat =]
 
